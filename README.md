@@ -206,3 +206,6 @@ This repository serves as the official landing page for Eyes - The Horror Game. 
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of Eyes - The Horror Game today!**
+
+---
+**Last updated:** 2026-11-09 19:39:26 UTC
