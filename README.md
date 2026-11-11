@@ -208,4 +208,4 @@ This repository serves as the official landing page for Eyes - The Horror Game. 
 **Get the most recent version of Eyes - The Horror Game today!**
 
 ---
-**Last updated:** 2026-11-10 23:57:27 UTC
+**Last updated:** 2026-11-11 05:56:16 UTC
